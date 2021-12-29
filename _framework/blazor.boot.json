@@ -9,7 +9,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BlazorRepl.Client.dll": "sha256-V5PKmt9ZSjTpzhpX0rj8RmLtrIUGGgroiJ+SCz6LmHg=",
+      "BlazorRepl.Client.dll": "sha256-f\/2o+wqSvoH\/gXxV8gvXXthEVo18SpoBfD7Qf8dg\/fs=",
       "Microsoft.CSharp.dll": "sha256-twUgoMqRCjMxtXUIYt\/QO2nXdwn36f5Nz240MccEpOQ=",
       "Microsoft.VisualBasic.Core.dll": "sha256-RUn00o3YkpuvHph4uivfeOWDNhB7YxKW6e9szvw225k=",
       "Microsoft.VisualBasic.dll": "sha256-d00J4CemA82RnoNRzqjqNhBe7cz2sznrG6N6rZZn5Wk=",
@@ -209,7 +209,7 @@
       "MudBlazor.dll": "sha256-Pzt+y5EhkeaIi1hr8xgsoEPJZTD1Xb+GVBZNp7EyTXM=",
       "Newtonsoft.Json.dll": "sha256-mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "BlazorRepl.Core.dll": "sha256-jUCvn5IMuCp7JO\/89neddVxMicOlf3u3FOUm7T0Ldq0=",
+      "BlazorRepl.Core.dll": "sha256-sN7bbNhpfXvIS\/zZCYliJIHXa0vd9KktaDclnjUrTW8=",
       "BlazorRepl.UserComponents.dll": "sha256-e0v4vImsZkQjma3WO\/p5pfEIORV0JyaEvPEXn1DY9Zo=",
       "WebBluetooth.dll": "sha256-LcaVuJvQbrXL+arpnXxmEPMGq4xIdF0FbpRT\/4RUdLM=",
       "WebUSB.dll": "sha256-OLVekuca2bx+f7PXpKfZmQcmYO+Vk765crLcDFjrEj0="
